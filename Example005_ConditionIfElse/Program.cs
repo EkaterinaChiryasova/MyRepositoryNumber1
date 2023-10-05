@@ -1,5 +1,5 @@
-﻿Console.WriteLine("Введите имя пользователя: " );
-string username = Console.ReadLine;
+﻿Console.WriteLine("Введите имя пользователя: ");
+string username = Console.ReadLine();
 
 if (username == "Маша")
 {
